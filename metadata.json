@@ -1,0 +1,8 @@
+{
+  "name": "Remix EdgeTime Tracker",
+  "description": "Monitor daily usage with a vertical, corner-hugging timer. Customize appearance and track every unlock session in real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
